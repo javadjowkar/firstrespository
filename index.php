@@ -15,6 +15,10 @@
     <p><input type="submit" value="send"> </p>
 
 </form>
+    <?php
+    echo "salam";
+    ?>
+    
 </body>
 
 </html>
